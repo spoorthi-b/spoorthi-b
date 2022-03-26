@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @spoorthi-b
 - 👀 I’m interested in AI/ML/DL, web development and computer graphics
 - 🌱 I’m currently pursuing Masters in Computer Science at University of California, Riverside
-- 💞️ I’m looking to collaborate budding developers.
 - 📫 You can reach me via email: e.spoorthi@gmail.com
 
 <!---
